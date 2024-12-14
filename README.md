@@ -1,2 +1,2 @@
 # Hotel-Recommendation-Project
-Data analysis and machine learning for kaggle hotel recommendation
+Data analysis and machine learning project for kaggle hotel recommendation
